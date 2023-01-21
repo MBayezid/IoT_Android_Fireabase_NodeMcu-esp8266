@@ -20,12 +20,7 @@ Make sure your project is connected to a firebase project.
 STEP 3:
 Now add firebase realtime-database service to your firebase project.
 Set Realtime database "Rules" as test or as following:
-{
-  "rules": {
-    ".read": true,
-    ".write": true
-  }
-}
+![Screenshot 2023-01-21 184356](https://user-images.githubusercontent.com/42944621/213867374-6d71b6f3-c691-4f4e-8843-ce4bbf4f1ec7.png)
 
 Create an Object, name it 'Room1' and create child key-value pair (value must be boolen type).
 ![Screenshot 2023-01-21 184225](https://user-images.githubusercontent.com/42944621/213867332-6f3217bc-6115-4240-934b-d2c6bf6554ab.png)
