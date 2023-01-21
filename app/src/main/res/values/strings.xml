@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IoT_Android_Fireabase_NodeMcu-esp8266</string>
+    <string name="developed_by">MB Lab</string>
+    <string name="description">This application is a part of CSE:426(IoT) lab work.will be used to establish a communication system between this font-end application firebase and Nodemcu esp8266.</string>
+</resources>
