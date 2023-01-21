@@ -28,7 +28,7 @@ Set Realtime database "Rules" as test or as following:
 }
 
 Create an Object, name it 'Room1' and create child key-value pair (value must be boolen type).
-![Screenshot 2023-01-21 183516](https://user-images.githubusercontent.com/42944621/213867185-4e502d7c-bb4b-4f53-89be-bf7b4564288f.png)
+![Screenshot 2023-01-21 184225](https://user-images.githubusercontent.com/42944621/213867332-6f3217bc-6115-4240-934b-d2c6bf6554ab.png)
 
 And that's all......... :)
 
