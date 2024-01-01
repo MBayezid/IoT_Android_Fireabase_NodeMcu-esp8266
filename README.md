@@ -28,7 +28,8 @@ Create an Object, name it 'Room1' and create child key-value pair (value must be
 
 ![Screenshot 2023-01-21 184225](https://user-images.githubusercontent.com/42944621/213867420-924e6dda-900d-4a1f-b254-24f9631f3c4e.png)
 
-
+STEP 4:
+Import Android project into android studio version controll system.
 And that's all......... :)
 
 As you add key-values to your Room1, keys will appear on your android application Home view.
