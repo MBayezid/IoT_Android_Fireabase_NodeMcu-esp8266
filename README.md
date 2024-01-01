@@ -1,4 +1,5 @@
-# IoT_Android_Fireabase_NodeMcu-esp8266
+# Smart Street Lamp Management System
+An IOT project to reduce power consummation by making street lamps smarter.
 This project was developed as a part of CSE:426(IoT) Lab work.
 
 Follow this steps to setup this project.
